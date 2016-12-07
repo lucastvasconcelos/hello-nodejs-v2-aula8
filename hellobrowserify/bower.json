@@ -1,0 +1,17 @@
+{
+  "name": "hellobrowserify",
+  "homepage": "https://github.com/lucastvasconcelos/hello-nodejs-v2-aula8",
+  "authors": [
+    "lucastvasconcelos <lucastavaresvasconcelos@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
